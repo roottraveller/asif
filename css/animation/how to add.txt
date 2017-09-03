@@ -1,0 +1,1 @@
+add class="animate <effect name>"
